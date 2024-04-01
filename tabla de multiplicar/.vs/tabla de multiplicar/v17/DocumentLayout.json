@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tabla de multiplicar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{230F746B-91C3-4DF1-9B7D-5A447E52E597}|tabla de multiplicar\\tabla de multiplicar.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tabla de multiplicar\\tabla de multiplicar\\tabla de multiplicar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{230F746B-91C3-4DF1-9B7D-5A447E52E597}|tabla de multiplicar\\tabla de multiplicar.vcxproj|solutionrelative:tabla de multiplicar\\tabla de multiplicar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tabla de multiplicar.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tabla de multiplicar\\tabla de multiplicar\\tabla de multiplicar.cpp",
+              "RelativeDocumentMoniker": "tabla de multiplicar\\tabla de multiplicar.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tabla de multiplicar\\tabla de multiplicar\\tabla de multiplicar.cpp*",
+              "RelativeToolTip": "tabla de multiplicar\\tabla de multiplicar.cpp*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T00:08:16.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

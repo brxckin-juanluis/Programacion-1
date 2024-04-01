@@ -1,0 +1,3 @@
+﻿  Verificador de año.cpp
+Verificador de año.obj : error LNK2019: símbolo externo "bool __cdecl esbisiesto(int)" (?esbisiesto@@YA_NH@Z) sin resolver al que se hace referencia en la función main
+C:\Users\juan luis\Desktop\mesoamericana\programacion\ejercicios codigo\Ejercicios visual studio\Verificador de año\x64\Debug\Verificador de año.exe : fatal error LNK1120: 1 externos sin resolver

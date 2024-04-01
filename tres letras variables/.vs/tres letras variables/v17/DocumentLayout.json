@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tres letras variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14BD7AA-CA70-4323-80E1-7F0BE2A4D0DA}|tres letras variables\\tres letras variables.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tres letras variables\\tres letras variables\\tres letras variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B14BD7AA-CA70-4323-80E1-7F0BE2A4D0DA}|tres letras variables\\tres letras variables.vcxproj|solutionrelative:tres letras variables\\tres letras variables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tres letras variables.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tres letras variables\\tres letras variables\\tres letras variables.cpp",
+              "RelativeDocumentMoniker": "tres letras variables\\tres letras variables.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\tres letras variables\\tres letras variables\\tres letras variables.cpp",
+              "RelativeToolTip": "tres letras variables\\tres letras variables.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T15:18:19.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

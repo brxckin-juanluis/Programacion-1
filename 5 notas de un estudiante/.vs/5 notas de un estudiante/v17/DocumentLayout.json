@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\5 notas de un estudiante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA68130-F2FD-4225-A9A9-F8556175BB1A}|5 notas de un estudiante\\5 notas de un estudiante.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\5 notas de un estudiante\\5 notas de un estudiante\\5 notas de un estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA68130-F2FD-4225-A9A9-F8556175BB1A}|5 notas de un estudiante\\5 notas de un estudiante.vcxproj|solutionrelative:5 notas de un estudiante\\5 notas de un estudiante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5 notas de un estudiante.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\5 notas de un estudiante\\5 notas de un estudiante\\5 notas de un estudiante.cpp",
+              "RelativeDocumentMoniker": "5 notas de un estudiante\\5 notas de un estudiante.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\5 notas de un estudiante\\5 notas de un estudiante\\5 notas de un estudiante.cpp",
+              "RelativeToolTip": "5 notas de un estudiante\\5 notas de un estudiante.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T14:37:37.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

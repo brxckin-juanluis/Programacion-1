@@ -1,0 +1,7 @@
+﻿  tabla de multiplicar.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\sal.h(2361,1): error C2144: error de sintaxis: 'int' debe estar precedido de ';'
+  (compilando archivo de origen "tabla%20de%20multiplicar.cpp")
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\sal.h(2361,8): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "tabla%20de%20multiplicar.cpp")
+  
