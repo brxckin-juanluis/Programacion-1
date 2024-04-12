@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Menu_5opciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4587E1-7E28-47D1-9AE7-8FA7D940CE8C}|Menu_5opciones\\Menu_5opciones.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Menu_5opciones\\Menu_5opciones\\Menu_5opciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB4587E1-7E28-47D1-9AE7-8FA7D940CE8C}|Menu_5opciones\\Menu_5opciones.vcxproj|solutionrelative:Menu_5opciones\\Menu_5opciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu_5opciones.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Menu_5opciones\\Menu_5opciones\\Menu_5opciones.cpp",
+              "RelativeDocumentMoniker": "Menu_5opciones\\Menu_5opciones.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Menu_5opciones\\Menu_5opciones\\Menu_5opciones.cpp",
+              "RelativeToolTip": "Menu_5opciones\\Menu_5opciones.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T15:13:31.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

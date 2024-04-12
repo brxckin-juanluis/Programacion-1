@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\menu_preguntas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C1D8049-2381-43FB-9739-60D1C3CA798F}|menu_preguntas\\menu_preguntas.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\menu_preguntas\\menu_preguntas\\menu_preguntas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C1D8049-2381-43FB-9739-60D1C3CA798F}|menu_preguntas\\menu_preguntas.vcxproj|solutionrelative:menu_preguntas\\menu_preguntas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu_preguntas.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\menu_preguntas\\menu_preguntas\\menu_preguntas.cpp",
+              "RelativeDocumentMoniker": "menu_preguntas\\menu_preguntas.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\menu_preguntas\\menu_preguntas\\menu_preguntas.cpp",
+              "RelativeToolTip": "menu_preguntas\\menu_preguntas.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAMwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T15:39:20.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
