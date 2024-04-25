@@ -1,0 +1,47 @@
+Tarea
+ public class main
+    {
+        public static void main(String [] args) {
+        
+            String texto= "Hola Humano";
+            int entero1=10;
+            int entero2= 5;
+            double decimal1=3.14;
+            boolean booleano = true;
+        
+            String mensaje = texto +"numero!";
+            System.out.print1n("la suma de "+ entero1 + "y" + entero 2 + "es: "+suma);
+            
+            Double doubleDesdeEntero = (double) entero1;
+            System.out.println("Double desde entero: " + doubleDesdeEntero;
+            
+            String stringDesdeDouble = Double. toString(decimal1);
+            System.out.print1n("String desde double: " + stringDesdeDouble);
+            
+            double doubleDesdeString=Double.parseDouble(stringDesdeDouble);
+            System.out.print1n("Double desde string: "+ doubleDesdeString);
+            
+            int enteroDesdeDouble=(int) decimal1;
+            System.out.print1n("Entero desde double: "+ enteroDesdeDouble);
+            
+            
+                    double[] valoresDouble = {3.14, 2.8689, 5.85, 4.49, 2.10};
+                for (double valor : valoresDouble) {
+                    int enteroDesdeDoubleNuevo = (int) valor;
+                    System.out.print(enteroDesdeDoubleNuevo + " ");
+                }
+                int[] valoresInt={1945, 2010, 218, 684};
+                for(int valor : valoresInt){
+                    double doubleDesdeIntNuevo = (double) valor;
+                    System.out.print(doubleDesdeIntNuevo+ " ");
+                }
+                 String todosLosNumeros = texto + " ";
+            for (double valor : valoresDouble) {
+                todosLosNumeros += Double.toString(valor) + " ";
+            }
+            for (int valor: valoresInt){
+                todosLosNumeros += Integer.toString(valor) + " ";
+                {
+                    System.out.println("numeros en una sola fila:  " + todosLosNumeros);
+        }
+    }
