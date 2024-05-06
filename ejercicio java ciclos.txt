@@ -1,0 +1,58 @@
+ejercicio de java : juan luis cojtin herrera 
+
+public class MyProgram
+{
+    public static void main(String[] args){
+        Scanner scanner = new Scanner(System.in);
+        int opcion = 0;
+        do {
+            System.out.println("Oye humano, escoge una opcion: ");
+            System.out.println("1.Mostrar los primeros 10 multiplos");
+            System.out.println("2.Responder Si o No");
+            System.out.println("3.Encontrar el Angulo Faltante");
+            System.out.println("4.Salir");
+            opcion = scanner.nextInt();
+            switch (opcion) {
+                case 1:
+                    System.out.print("humano ingresa Un Numero : ");
+                    int numero = scanner.nextInt();
+                    System.out.println();
+                    for (int i = 0; i <= 10; i++) {
+                        System.out.println(numero + " * " + i + " = " + numero * i);
+                    }
+                    break;
+                case 2:
+                    System.out.println("humano ingrese Si o No");
+                    String respuesta = scanner.next().toLowerCase();
+                    switch (respuesta) {
+                        case "si":
+                            System.out.println("bienvenido");
+                            break;
+                        case "no":
+                            System.out.println("adios");
+                            break;
+                        default:
+                            break;
+                    }
+                    break;
+                case 3:
+                    System.out.println("Ingresa el primer angulo");
+                    Integer anguloUno = scanner.nextInt();
+                    System.out.println("Ingresa el segundo angulo");
+                    Integer anguloDos = scanner.nextInt();
+                    Integer t = 180 - (anguloUno + anguloDos);
+                    if (t < 0) {
+                        System.err.println("Error de calculo, ingresa correctamente la informacion");
+                    }
+                    else if (t >= 1 ) {
+                        System.out.println("El angulo faltante es: " + t);
+                    }
+                    break;
+            
+                default:
+                    break;
+            }
+            
+        } while (opcion != 4);
+    }
+}

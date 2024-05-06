@@ -1,0 +1,109 @@
+Ejercicio python
+ejercicio 1:
+def main():
+    
+    num1 = float(input("Ingresa el primer número: "))
+    num2 = float(input("Ingresa el segundo número: "))
+    
+  
+    suma = num1 + num2
+    
+    
+    print("La suma de", num1, "y", num2, "es:", suma)
+
+if __name__ == "__main__":
+    main()
+
+ejercicio 2:
+
+def resta():
+    try:
+        
+        num1 = float(input("Ingresa el primer número: "))
+        num2 = float(input("Ingresa el segundo número: "))
+
+        
+        resultado = num1 - num2
+
+        
+        print("La resta de", num1, "y", num2, "es:", resultado)
+    except ValueError:
+        print("Error: Ingresa números válidos.")
+
+
+resta()
+
+ejercicio 3:
+
+def main():
+   
+    num1 = float(input("Ingresa el primer número: "))
+
+    
+    num2 = float(input("Ingresa el segundo número: "))
+
+   
+    resultado = num1 * num2
+
+   
+    print("El resultado de la multiplicación es:", resultado)
+
+if __name__ == "__main__":
+    main()
+
+ejercicio 4:
+def main():
+    try:
+       
+        num1 = float(input("Ingresa el primer número: "))
+        
+        
+        num2 = float(input("Ingresa el segundo número: "))
+        
+        
+        resultado = num1 / num2
+        
+        
+        print("El resultado de dividir", num1, "entre", num2, "es:", resultado)
+        
+    except ValueError:
+        print("Error: Ingresa solo números.")
+    except ZeroDivisionError:
+        print("Error: No se puede dividir entre cero.")
+
+if __name__ == "__main__":
+    main()
+
+ejercicio 5:
+def elevar_potencia(base, exponente):
+    resultado = base ** exponente
+    return resultado
+
+
+base = float(input("Ingresa la base: "))
+exponente = float(input("Ingresa el exponente: "))
+
+
+resultado = elevar_potencia(base, exponente)
+print("El resultado de elevar", base, "a la potencia", exponente, "es:", resultado)
+
+ejercicio 6:
+def factorial(numero):
+    if numero == 0:
+        return 1
+    else:
+        return numero * factorial(numero - 1)
+
+def main():
+    try:
+        numero = int(input("humano ingresa un número para encontrar su factorial: "))
+        if numero < 0:
+            print("El factorial no está definido para números negativos humano.")
+        else:
+            resultado = factorial(numero)
+            print(f"El factorial de {numero} es: {resultado}")
+    except ValueError:
+        print("Por favor humano, ingresa un número entero válido.")
+
+if __name__ == "__main__":
+    main()
