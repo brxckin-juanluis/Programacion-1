@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Promedio con Arreglo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD41B936-2153-49EB-A6F6-4479FB5103D9}|Promedio con Arreglo\\Promedio con Arreglo.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Promedio con Arreglo\\Promedio con Arreglo\\Promedio con Arreglo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD41B936-2153-49EB-A6F6-4479FB5103D9}|Promedio con Arreglo\\Promedio con Arreglo.vcxproj|solutionrelative:Promedio con Arreglo\\Promedio con Arreglo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Promedio con Arreglo.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Promedio con Arreglo\\Promedio con Arreglo\\Promedio con Arreglo.cpp",
+              "RelativeDocumentMoniker": "Promedio con Arreglo\\Promedio con Arreglo.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Promedio con Arreglo\\Promedio con Arreglo\\Promedio con Arreglo.cpp",
+              "RelativeToolTip": "Promedio con Arreglo\\Promedio con Arreglo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T16:03:52.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

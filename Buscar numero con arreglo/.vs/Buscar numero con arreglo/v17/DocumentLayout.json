@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Buscar numero con arreglo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA76670-22A1-4DA1-96D9-8C9806773D3A}|Buscar numero con arreglo\\Buscar numero con arreglo.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Buscar numero con arreglo\\Buscar numero con arreglo\\Buscar numero con arreglo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABA76670-22A1-4DA1-96D9-8C9806773D3A}|Buscar numero con arreglo\\Buscar numero con arreglo.vcxproj|solutionrelative:Buscar numero con arreglo\\Buscar numero con arreglo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buscar numero con arreglo.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Buscar numero con arreglo\\Buscar numero con arreglo\\Buscar numero con arreglo.cpp",
+              "RelativeDocumentMoniker": "Buscar numero con arreglo\\Buscar numero con arreglo.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\Buscar numero con arreglo\\Buscar numero con arreglo\\Buscar numero con arreglo.cpp",
+              "RelativeToolTip": "Buscar numero con arreglo\\Buscar numero con arreglo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T16:23:02.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
