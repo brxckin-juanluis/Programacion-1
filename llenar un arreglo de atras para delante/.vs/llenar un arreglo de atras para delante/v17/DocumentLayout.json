@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\llenar un arreglo de atras para delante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D05B21F-4FF9-41A2-97C1-709E34EDA73C}|llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.vcxproj|C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D05B21F-4FF9-41A2-97C1-709E34EDA73C}|llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.vcxproj|solutionrelative:llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "llenar un arreglo de atras para delante.cpp",
+              "DocumentMoniker": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.cpp",
+              "RelativeDocumentMoniker": "llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.cpp",
+              "ToolTip": "C:\\Users\\juan luis\\Desktop\\mesoamericana\\programacion\\ejercicios codigo\\Ejercicios visual studio\\llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.cpp",
+              "RelativeToolTip": "llenar un arreglo de atras para delante\\llenar un arreglo de atras para delante.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T14:59:28.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
